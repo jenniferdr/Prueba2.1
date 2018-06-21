@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Libros asombrosos</string>
+    <string name="title_activity_detail_book">Detalles</string>
+</resources>
